@@ -1,0 +1,52 @@
+body{
+    background-color: #bde0fe;
+    font-family: 'Oswald', sans-serif;
+}
+
+h1{
+    color: #22223b;
+    text-align: center;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+h2{
+    color: #22223b;
+    text-align: center;
+}
+
+h3{
+    color: #7209b7;
+}
+#imagem_perfil{
+    width: 10%; 
+    border-radius: 100%; 
+    align-items: center;
+    padding: 50px;
+}
+.subtitulo {
+    color: #150322;
+}
+.subtitulo2{
+    color: #150322;
+}
+p{
+    line-height: 2;
+    border: double 2px;
+    border-color: #9b71e7;
+}
+table{
+    text-align: center;
+    border: 2 aliceblue ;
+    border-style: double;
+} 
+th{
+    border-color: aliceblue;
+    padding: 4px;
+    border-style: double;
+}
+td{
+    width: 30%;
+    padding: 4px;
+    border-color: aliceblue;
+    border-style: double;
+}
