@@ -8,5 +8,5 @@ Nesse modulo vimos:
 5. Inserir Links
 6. Formulário
 ***
-*Aqui tem meu primeiro site :clap:*
-*Também um currículo*
+*Aqui tem meu primeiro site :clap:* <br/>
+*Também um currículo :clap:*
